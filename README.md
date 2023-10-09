@@ -1,2 +1,2 @@
-# ModularMenu
-Unreal Engine Modular Menu and Settings
+# Modular Menu
+ - Unreal Engine Modular Menu
