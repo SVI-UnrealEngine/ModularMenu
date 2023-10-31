@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-05T05:40:36Z",
+  "created": "2023-10-31T14:38:43Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -44,6 +44,9 @@
     },
     {
       "path": "menu-component/input/index.html"
+    },
+    {
+      "path": "menu-component/inputbinds/index.html"
     },
     {
       "path": "menu-component/modal/index.html"
