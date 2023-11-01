@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-31T14:38:43Z",
+  "created": "2023-11-01T09:59:49Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -35,6 +35,12 @@
     },
     {
       "path": "layout-component/tablayout/index.html"
+    },
+    {
+      "path": "menu-component/addinputcontext/index.html"
+    },
+    {
+      "path": "menu-component/addreadyinputcontext/index.html"
     },
     {
       "path": "menu-component/combobox/index.html"
@@ -98,6 +104,9 @@
       "old": true
     },
     {
+      "path": "release-notes/index.html"
+    },
+    {
       "path": "resources/css/retype.css"
     },
     {
@@ -147,6 +156,9 @@
     },
     {
       "path": "static/add.png"
+    },
+    {
+      "path": "static/arrowi.png"
     },
     {
       "path": "static/award.png"

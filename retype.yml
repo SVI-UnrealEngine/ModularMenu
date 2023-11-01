@@ -56,7 +56,7 @@ branding:
   #logo: static/logo.png          # Path to a logo file.
   #logoDark: static/logo.png # Path to a logo file to use in dark mode.
   #logoAlign: left               # Align the logo to the right or the left.
-  label: v1.0 # Optional label. To remove the label, remove this config.
+  label: v1.2 # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.

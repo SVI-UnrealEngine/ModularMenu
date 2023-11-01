@@ -28,3 +28,4 @@ Fully customizable components with auto-save/load feature
 [!ref icon="/static/slider.png"](slider.md)
 [!ref icon="/static/switch.png"](toggle.md)
 [!ref icon="/static/trilogy.png"](input.md)
+[!ref icon="/static/event.png"](inputbinds.md)

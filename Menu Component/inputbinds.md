@@ -1,9 +1,10 @@
 ---
-label: Input Binding
-order: 60
-icon: "/static/trilogy.png"
+label: Add Input Binding
+order: 59
+
+icon: "/static/arrowi.png"
 ---
-# Input Binding
+# Input Binging
 
 Set up for keyboard and gamepad
 
@@ -23,25 +24,29 @@ Set up for keyboard and gamepad
 </style>
 
 :::sample
- Folder :  `Content/ModularMenu/Demo/ThirdPerson/Input`
+ Folder :  `Content/ModularMenu/Demo/ThirdPerson/Input/TestIMCS`
 :::
 
 :: Follow This Path
 
-    Open `IMC_Default_Combat`
-    Open `Mappings` accordion section
-    Open `LeftMouseButton` accordion section
-    Open `Player Mappable` Options accordion section
-    Examine default dummy datas
+    Open [IMC_Default_Test]
+    Open [Mappings] accordion section
+    Open [IA_Jump] accordion section
+    Add a control binding and bind key
+    Open [Player Mappable Options] accordion section
+    Set [Name] row any string
+    Set [Display Name][!Unique!] the same string for the row where all action keys are located
+    Set [Display Category] Keyboard or Gamepad
+    Open your project directory and delete Saved folder
 
 ::
 
 : Variables
 
-`Name` -> Internal Name Of Input For Binding [UniqueStringKey]
+`Name` -> Internal Name Of Input For Binding Can be same or different [AnyString]
 
-`Display Name` -> Display Name Of Input [SimpleDisplayLabel]
+`Display Name` -> Display Name Of Input All Action Keys Must Be Same [UniqueDisplayLabel]
 
-`Display Category` -> Display Category Of Input [Gamepad] or [Keyboard]
+`Display Category` -> Display Category Of Input [Gamepad] or [Keyboard] For Binding
 
 :
