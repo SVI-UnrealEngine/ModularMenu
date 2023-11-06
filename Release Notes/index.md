@@ -13,3 +13,8 @@ Input Bingind Section Changed
 
     New structure for IMC 
     New structure for Ready Input List 
+
+# Version 1.2.1
+Upgrade Nodes
+
+    Support Unreal Engine 5.3
